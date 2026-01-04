@@ -1,4 +1,4 @@
-<h1>
+<h1> 
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Guia de Contribuição</span>
@@ -78,6 +78,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
     
 ## Convenção de Commits 
+
 
 | Tipo de Commit |Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
